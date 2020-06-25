@@ -2,8 +2,7 @@
 
 ## Perl
 
-### Lab one
-[PDF](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab%201.pdf)
+### [Lab one](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab%201.pdf)
 
 [Hello world.pl](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/HelloWorld.pl)
 
