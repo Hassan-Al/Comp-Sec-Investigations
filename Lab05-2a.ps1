@@ -1,0 +1,2 @@
+﻿#Calculate the hash values for all the files and save them into a CSV
+Get-ChildItem "C:\Users\Administrator\Downloads" | Get-FileHash | Select-Object -Property Hash, Path | Export-CSV "C:\Temp\Baseline.csv"

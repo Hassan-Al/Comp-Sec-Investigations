@@ -1,0 +1,1 @@
+﻿Compare-Object (Import-CSV "C:\Temp\Baseline.csv") (Get-ChildItem "C:\Users\Administrator\Downloads" | Get-FileHash | Select-Object) -Property Hash, Path 
