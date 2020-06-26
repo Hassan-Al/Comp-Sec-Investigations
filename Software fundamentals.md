@@ -28,11 +28,11 @@ In this lab I use a regex to filter network traffic logs specified by the user
 
 ## Powershell
 
-### Lab four
+### Lab four | Powershell functions
 
 [Lab four source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab4.ps1)
 
-### Lab five
+### Lab five | Generate hash, compares hashes of files to create a baseline and identify changes
 
 [Lab five source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab5.ps1)
 
