@@ -34,7 +34,7 @@ In this lab I use a regex to filter network traffic logs specified by the user
 
 ### Lab five
 
-[Lab five source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab5.ps1)
+[Lab five source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab5.ps1)
 
 ### Lab six | List files in the current directory
 
