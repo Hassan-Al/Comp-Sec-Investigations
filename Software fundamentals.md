@@ -1,12 +1,14 @@
 # Software Fundamentals
 
+Introduction to basic programing with Perl and Powershell.
+
 ## Perl
 
 ### [Lab one](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab%201.pdf) Introduction to the PERL environment
 
 Basic PERL introduction
 
-[lab one source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab1.pl)
+[Lab one source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab1.pl)
 
 ### [Lab two](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab2.pdf) File processing
 
@@ -14,7 +16,7 @@ Use PERL functions to process data in a file
 
 [Sample text](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/TestFile.txt)
 
-[lab two source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab2.pl)
+[Lab two source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab2.pl)
 
 ### [Lab three](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab3.pdf) Using regular expressions
 
@@ -22,15 +24,18 @@ In this lab I use a regex to filter network traffic logs specified by the user
 
 [sample log file](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/sample.log)
 
-[lab three source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab3.pl)
+[Lab three source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab3.pl)
 
 ## Powershell
 
-[Switch Function](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/HassanLabPowerShell3.ps1)
+### Lab four
 
-[Var Function](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Untitled.ps1)
+[Lab four source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab4.ps1)
 
-[Lab 4](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab4.ps1)
-[Lab 5](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab05-1.ps1)
-[Lab 5a](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab05-2a.ps1)
-[Lab 5b](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab05-2b.ps1)
+### Lab five
+
+[Lab five source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab5.ps1)
+
+### Lab six
+
+[Lab six source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab6.ps1)
