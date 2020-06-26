@@ -4,13 +4,13 @@ Introduction to basic programing with Perl and Powershell.
 
 ## Perl
 
-### [Lab one](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab%201.pdf) Introduction to the PERL environment
+### [Lab one](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab%201.pdf) | Introduction to the PERL environment
 
 Basic PERL introduction
 
 [Lab one source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab1.pl)
 
-### [Lab two](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab2.pdf) File processing
+### [Lab two](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab2.pdf) | File processing
 
 Use PERL functions to process data in a file
 
@@ -18,7 +18,7 @@ Use PERL functions to process data in a file
 
 [Lab two source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab2.pl)
 
-### [Lab three](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab3.pdf) Using regular expressions
+### [Lab three](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab3.pdf) | Using regular expressions
 
 In this lab I use a regex to filter network traffic logs specified by the user
 
@@ -36,6 +36,6 @@ In this lab I use a regex to filter network traffic logs specified by the user
 
 [Lab five source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab5.ps1)
 
-### Lab six
+### Lab six | List files in the current directory
 
 [Lab six source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab6.ps1)
