@@ -16,7 +16,7 @@
 
 [sample log file](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/sample.log)
 
-[lab three source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab3_v1.pl)
+[lab three source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab3.pl)
 
 ## Python
 
