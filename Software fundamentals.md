@@ -4,13 +4,13 @@ Introduction to basic programing with Perl and Powershell.
 
 ## Perl
 
-### [Lab one](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab%201.pdf) | Introduction to the PERL environment
+### Lab one | Introduction to the PERL environment
 
 Basic PERL introduction
 
 [Lab one source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab1.pl)
 
-### [Lab two](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/Lab2.pdf) | File processing
+### Lab two | File processing
 
 Use PERL functions to process data in a file
 
@@ -18,7 +18,7 @@ Use PERL functions to process data in a file
 
 [Lab two source](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab2.pl)
 
-### [Lab three](https://github.com/Hassan-Al/Comp-Sec-Investigations/blob/master/lab3.pdf) | Using regular expressions
+### Lab three | Using regular expressions
 
 In this lab I use a regex to filter network traffic logs specified by the user
 
